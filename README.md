@@ -1,7 +1,7 @@
 # ECE1512-Homework3-LaneDetection
 This repository contains my work in the field of Lane Detection.
 
-Lane detection is performed with UNet semantic segmentation architecture. The model is trained on Berkley Dataset. 
+Lane detection is performed with UNet semantic segmentation architecture. Model is trained on the Berkeley DeepDrive dataset.
 
 For videos, please play it with the VLC player as there is some video compatibility issue with Media player.
 
