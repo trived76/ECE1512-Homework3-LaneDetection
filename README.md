@@ -1,5 +1,5 @@
-# ECE1512-Homework3-LaneDetection
-This repository contains my work in the field of Lane Detection.
+# Road-Lane-Detection-with-Computer-Vision
+This repository contains my work in the field of Road Lane detection. After exploring image segmentation with standard image processing techniques in my M.Eng research project, I wanted to explore image segementation with deep learning. By the way, my M.Eng research project was in the field of automatic cell surgery with image processing. The present work has a corelation to the other repository [Semantic-Segmentation](https://github.com/trived76/Semantic-Segmentation), in this work U-Net architecture is used. 
 
 Lane detection is performed with UNet semantic segmentation architecture. Model is trained on the Berkeley DeepDrive dataset.
 
